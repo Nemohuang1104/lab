@@ -2,8 +2,15 @@
     font-size: 500px;
     color: red;
 }
+<<<<<<< HEAD
+
+p{
+    font-size: 32px;
+    color: blueviolet;
+=======
 h1{
     font-size: 50px;
     font-weight: bold;
     font-family:Arial, Helvetica, sans-serif;
+>>>>>>> f1ff6d836c31deb8e8642c33ac5cb15e653973e2
 }
