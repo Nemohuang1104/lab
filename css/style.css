@@ -2,3 +2,13 @@
     font-size: 500px;
     color: red;
 }
+
+p{
+    font-size: 32px;
+    color: blueviolet;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+}
